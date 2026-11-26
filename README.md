@@ -1,6 +1,6 @@
 # Portofolio Reza Sahendra
 
-Cadangan situs [rezasahendra.netlify.app](https://rezasahendra.netlify.app/) per 26 November 2026. Repositori ini privat karena arsip dapat memuat foto, draf, dan pesan kontak.
+Cadangan situs [rezasahendra.netlify.app](https://rezasahendra.netlify.app/) per 26 November 2026. Repositori ini terbuka untuk umum sesuai permintaan pemilik. Arsip berisi kode, foto, karya, dan pengaturan halaman yang telah diekspor.
 
 ## Mulai dari sini
 
@@ -9,4 +9,4 @@ Cadangan situs [rezasahendra.netlify.app](https://rezasahendra.netlify.app/) per
 - [Panduan cadangan dan pemulihan](BACKUP_AND_RESTORE.md).
 - [Manifest snapshot](manifest.json) — jumlah data dan checksum berkas ekspor.
 
-Arsip adalah snapshot, bukan sinkronisasi otomatis. Nilai PIN, token, dan rahasia lingkungan Netlify tidak disertakan.
+Arsip adalah snapshot, bukan sinkronisasi otomatis. Nilai PIN, token, dan rahasia lingkungan Netlify tidak disertakan. Folder cadangan Google Drive tetap privat.

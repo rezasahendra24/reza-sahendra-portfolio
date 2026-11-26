@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "snapshotDate": "2026-11-26",
+  "exportedAtUtc": "2026-11-26T15:19:57Z",
+  "source": "https://rezasahendra.netlify.app",
+  "description": "Admin API content export and Netlify Blobs media; static assets are in public/",
+  "counts": {
+    "entries": 3,
+    "site-content": 1,
+    "messages": 0,
+    "gallery": 4
+  },
+  "filesSha256": {
+    "entries.json": "30d6ccf4ad1fe1496403b30cc7c12cbf592608047af037686ed73fd8b8a36641",
+    "gallery.json": "a8e233dabf7b25f581ed4f0413888c6cab483ae4ff8e45a121334d9c57d4909b",
+    "media/netlify-blobs/fd3e7f2d-3f2e-4cf2-ab84-a3d5da885e45.png": "8fc41c75888f1e143c79f98c1b0c417b88de4bb5a2a2f5f2a26f5b3885549b72",
+    "messages.json": "3d1106f17373cc2d9a8a7772ddc34a16eeb591d4fee0552538dedd6728b773b4",
+    "site-content.json": "e01b95c6853a0f3edbb2dc70c6af705e7a304db56cd9dcc585e0e9851b924e87"
+  },
+  "excluded": [
+    "Admin PIN and verifier",
+    "ADMIN_SESSION_SECRET",
+    "database credentials",
+    "Netlify auth token",
+    "admin_pin rate-limit state"
+  ]
+}
